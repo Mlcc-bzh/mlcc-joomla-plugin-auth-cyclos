@@ -2,6 +2,8 @@
 
 cms : Joomla 3.9.x
 
+type : plugin | authentificaton
+
 dépendances : mlcc-joomla-plugin-system-cyclos
 https://github.com/Mlcc-bzh/mlcc-joomla-plugin-system-cyclos
 
